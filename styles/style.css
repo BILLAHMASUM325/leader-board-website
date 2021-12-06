@@ -1,3 +1,49 @@
+body{
+    background-color: #F3F1FF;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+   background-color: #FFFFFF;
+   border-radius: 10px;
+}
 .navbar img{
     width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.player-name{
+    padding-left: 3em;
+}
+.blog img{
+    width: 177px;
+}
+.row h6{
+    font-size: 20px;
+    font-weight: 700;
+}
+.para{
+    color:#9F9F9F;
+
+}
+.span-head{
+    color: #562EFF;
+}
+.main-margin{
+margin-top: 30px;
+margin-bottom: 30px;
+
+
+}
+.container {
+    margin-top: 30px;
+}
+.course-margin{
+    padding-bottom: 30px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
 }
